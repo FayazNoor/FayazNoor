@@ -57,28 +57,31 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Fayaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  
+![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FayazNoor&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=radical&hide_border=true)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FayazNoor&theme=radical&hide_border=true)
 
-### 📈 Contribution Graph
-
-[![Fayaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FayazNoor&theme=tokyo-night&hide_border=true)](https://github.com/FayazNoor)
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![Fayaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FayazNoor&custom_title=Fayaz's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
@@ -93,7 +96,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 <p align="center">
