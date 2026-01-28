@@ -1,46 +1,106 @@
-# Hi there, I'm Fayaz Noor 👋
+<h1 align="center">Hi 👋, I'm Fayaz Noor</h1>
+<h3 align="center">AI/ML Engineer | Generative AI Enthusiast | Senior Student at Fast NUCES Peshawar</h3>
 
-### Senior AI Student | Fast NUCES Peshawar
-
-I'm passionate about artificial intelligence and building practical software solutions. Currently exploring the intersection of AI, databases, and full-stack development.
-
-## 🔭 What I'm Working On
-
-- AI/ML projects and research
-- Database systems and architectures
-- Full-stack web applications
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Frameworks & Tools**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/fayaz-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://kaggle.com/fayaznoor10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="mailto:fayaz.noor.afridi@gmail,com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your.email@example.com" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fayaznoor&label=Profile%20views&color=0e75b6&style=flat" alt="fayaznoor" />
 </p>
+
 ---
 
-💡 *"Building intelligent solutions, one line of code at a time"*
+### 🚀 About Me
+
+- 🔭 I'm currently learning **AI/ML and Generative AI**
+- 🌱 I'm exploring **Large Language Models, Deep Learning, and AI Agents**
+- 💡 Passionate about **Machine Learning, Computer Vision, and NLP**
+- 🎯 Building intelligent systems that solve real-world problems
+- 📫 Reach me at **fayaz.noor.afridi@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <strong>AI/ML & Data Science:</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Programming Languages:</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Databases:</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Tools & Frameworks:</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Fayaz's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FayazNoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Fayaz's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FayazNoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Fayaz's Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Fayaz's Trophies" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/fayaz-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayaz-noor" height="30" width="40" /></a>
+<a href="https://kaggle.com/fayaznoor10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fayaznoor10" height="30" width="40" /></a>
+<a href="mailto:fayaz.noor.afridi@gmail.com"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="gmail" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  💡 <em>"Building intelligent solutions with AI, one model at a time"</em>
+</p>
