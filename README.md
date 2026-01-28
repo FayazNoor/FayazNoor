@@ -36,10 +36,11 @@ I'm passionate about artificial intelligence and building practical software sol
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fayaz-noor)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/fayaznoor10)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fayaz.noor.afridi@gmail,com)
-
+<p align="left">
+<a href="https://linkedin.com/in/fayaz-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://kaggle.com/fayaznoor10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yourusername" height="30" width="40" /></a>
+<a href="mailto:fayaz.noor.afridi@gmail,com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your.email@example.com" height="30" width="40" /></a>
+</p>
 ---
 
 💡 *"Building intelligent solutions, one line of code at a time"*
