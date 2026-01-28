@@ -94,14 +94,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
