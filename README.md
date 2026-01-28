@@ -58,31 +58,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Fayaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Fayaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FayazNoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Fayaz's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=FayazNoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=FayazNoor&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FayazNoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Fayaz's Activity Graph" />
-</p>
+[![Fayaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FayazNoor&theme=tokyo-night&hide_border=true)](https://github.com/FayazNoor)
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Fayaz's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FayazNoor&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -92,7 +87,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fayaz-noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fayaz-noor" height="30" width="40" /></a>
 <a href="https://kaggle.com/fayaznoor10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fayaznoor10" height="30" width="40" /></a>
-<a href="mailto:fayaz.noor.afridi@gmail.com"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:fayaz.noor.afridi@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ---
