@@ -95,18 +95,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayazNoor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FayazNoor&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
